@@ -14,5 +14,5 @@ Este bot analiza el RSI (Relative Strength Index) cada minuto usando datos en ti
 ## 📁 Archivo principal
 - `RSI.py`
 
-## 👩‍🎓 Autora
-Daniela Valle – Estudiante de Actuaría (UNAM)
+## 👩‍🎓 Autor
+Amir Arturo Flores Cruz – Estudiante de Actuaría (UNAM)
